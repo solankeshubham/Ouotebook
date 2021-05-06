@@ -1,6 +1,3 @@
 Strength through struggle- Michael choi
-<<<<<<< HEAD
-I like blue -jay patel
-=======
-i like green -jat patel
->>>>>>> personal_quotes
+I like pink -jay patel
+
